@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarolineLaw
 - 👀 I’m interested in finding help for open source project Vocable AAC (https://www.vocable.app)
-- 🌱 I’m currently learning dart/flutter
+- 🌱 I’m currently learning how to do UX work
 - 💞️ I’m looking to collaborate on Vocable AAC
 - 📫 How to reach me carolinealaw@gmail.com
 
