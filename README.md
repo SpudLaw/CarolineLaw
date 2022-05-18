@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CarolineLaw
-- 👀 I’m interested in finding help for open source project Vocable AAC (https://www.vocable.app)
+- 👀 I’m interested in making games with/for my frined :D (https://khatto.com/)
 - 🌱 I’m currently learning how to do UX work
-- 💞️ I’m looking to collaborate on Vocable AAC
-- 📫 How to reach me carolinealaw@gmail.com
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me caroline.a.law@gmail.com
 
 <!---
 CarolineLaw/CarolineLaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
