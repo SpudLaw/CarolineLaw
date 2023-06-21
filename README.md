@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarolineLaw
 - 👀 I’m interested in making games with/for my friend :D (https://khatto.com/)
-- 🌱 I’m currently learning how to do UX work
+- 🌱 I’m currently working on personal projects
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me caroline.a.law@gmail.com
 
